@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a French student in 2nd year of CPGE interested in coding and 3D modeling
 <!--
 **StarsL0l/StarsL0l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
